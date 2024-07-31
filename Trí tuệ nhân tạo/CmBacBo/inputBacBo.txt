@@ -1,0 +1,11 @@
+6
+-A -B P
+-C -D P
+-E C
+A
+E
+D
+P
+Cho file input có cấu trúc như sau :
+n : số lượng các câu tuyển G
+n dòng tiếp theo

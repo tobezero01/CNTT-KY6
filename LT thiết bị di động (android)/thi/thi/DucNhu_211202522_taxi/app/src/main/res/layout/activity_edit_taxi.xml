@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/editTextSoXe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Số xe"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/editTextQuangDuong"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Quãng đường"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/editTextDonGia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Đơn giá"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/editTextKm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Km"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/buttonSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save" />
+</LinearLayout>

@@ -1,0 +1,28 @@
+<!-- res/layout/item_taxi.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/soXe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Số xe"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/quangDuong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quãng đường"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tongTien"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tổng tiền"
+        android:textSize="16sp" />
+</LinearLayout>

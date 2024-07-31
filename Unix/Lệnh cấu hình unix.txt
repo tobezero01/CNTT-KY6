@@ -1,0 +1,14 @@
+Lệnh cấu hình 
+Lệnh kiểm tra => kết quả kiểm tra 
+
+nộp bài lấy điểm quá trình
+bằng cách chụp hình kết quả
+sao chép vào file word -> pdf
+Trong word có 1 bảng ( 1 cột chứa câu lệnh , 1 cột chứa ý nghĩa câu lệnh)
+câu lệnh  :history (list câu lệnh sử dụng gần nhất)
+Hạn nộp bài trước 12h thứ 6 tuần tiếp theo
+
+
+
+
+

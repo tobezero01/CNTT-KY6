@@ -1,0 +1,15 @@
+tạo 3 ổ đĩa cứng (30GB,50GB,100GB)
+Mỗi ổ đĩa, chia thành các phân vùng
+Linux: 4 phân vùng
+3 primary, 1 extended (2 logical)
+
+- vd ổ 100gb:
+1-10gb
+2-20gb
+3-30gb
+4-40gb (5-5gb, 6-35gb)
+
+định dạng phân vùng ext4 (trên win là fats)
+
+------------------------------------------
+
